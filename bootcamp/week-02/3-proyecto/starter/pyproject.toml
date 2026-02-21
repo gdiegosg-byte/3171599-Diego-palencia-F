@@ -1,0 +1,16 @@
+[project]
+name = "contacts-api"
+version = "1.0.0"
+description = "API de Gestión de Contactos - Proyecto Semana 02"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.128",
+    "pydantic[email]>=2.10",
+    "uvicorn>=0.40",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.4",
+    "httpx>=0.29",
+]
