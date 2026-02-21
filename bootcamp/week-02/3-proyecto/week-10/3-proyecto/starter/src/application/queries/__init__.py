@@ -1,1 +1,0 @@
-# Queries - Operaciones de lectura

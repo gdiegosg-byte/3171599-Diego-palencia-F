@@ -1,1 +1,0 @@
-# API Infrastructure - FastAPI adapters

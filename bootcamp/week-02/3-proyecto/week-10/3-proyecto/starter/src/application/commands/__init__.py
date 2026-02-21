@@ -1,1 +1,0 @@
-# Commands - Operaciones de escritura
